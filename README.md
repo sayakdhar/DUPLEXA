@@ -141,10 +141,3 @@ Here is where you will have all the fun.
 3. You can have any number of digits for both first number and second number.
 4. Currently there are 10 operators.
 5. During operator selection, 1 means '+', 2 means '-', 3 means '\*', 4 means '/', 5 means '%', 6 means '\*\*', 7 means '>>' or right shift operator, 8 means '<<' or left shift operator, 9 means '&' or bitwise AND and 0 means '|' or bitwise OR.
-
-
-# Got a question?
-If you have any questions that are bothering you please contact me on my <a href = "http://www.facebook.com/dibakar.saha.750">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
-
-# How to cite 
-Saha, D.. (2018, May 9). Sign-Language (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241901.v1A very simple CNN project.
